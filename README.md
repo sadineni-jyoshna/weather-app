@@ -1,5 +1,6 @@
-#weather app
-A weather app contains a user input field for the user, which takes the input of the city name. Once the user enters the city name and clicks on the button, then the API Request is been sent to the OpenWeatherMap and the response is been retrieved in the application which consists of weather, wind speed, description, etc.
+#WEATHER-APP
+
+The weather app contains a user input field for the user, which takes the input of the city name. Once the user enters the city name and clicks on the button, then the API Request is been sent to the OpenWeatherMap and the response is been retrieved in the application which consists of weather, wind speed, description, etc.
 In today’s fast-paced world, staying up to date with the weather is essential for planning our daily activities. Whether you’re planning a weekend getaway, deciding what to wear, or preparing for an outdoor event, having easy access to accurate weather information is crucial.
 This article will explore how to create a dynamic weather app using HTML CSS and JavaScript. This project will not only serve as a practical tool but also provide valuable insights into web development.
 
